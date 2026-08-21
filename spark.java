@@ -14,4 +14,7 @@ class spark{
     public void notifyCheck(){
         System.out.println("verifing ");
     }
+    public void auth(){
+        System.out.println("Auth");
+    }
 }
