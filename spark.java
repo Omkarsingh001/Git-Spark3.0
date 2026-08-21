@@ -1,6 +1,6 @@
 class spark{
     public static void main(String[] args){
-        System.out.println("Hello Ayush Buddy");
+        System.out.println("Hello Ayu Buddy");
     }
     public void m1(){
         System.out.println("Omkar Singh");
