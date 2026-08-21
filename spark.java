@@ -5,4 +5,7 @@ class spark{
     public void m1(){
         System.out.println("Omkar Singh");
     }
+    public void payment(){
+        System.out.println("X");
+    }
 }
