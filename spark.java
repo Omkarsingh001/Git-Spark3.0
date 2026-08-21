@@ -14,10 +14,10 @@ class spark{
     public void notifyCheck(){
         System.out.println("verifing ");
     }
-<<<<<<< HEAD
-=======
     public void auth(){
         System.out.println("Auth");
     }
->>>>>>> b3767b30249daf2edef159fdb9bd835da63513d8
+    public void auth1(){
+        System.out.println("auth1");
+    }
 }
