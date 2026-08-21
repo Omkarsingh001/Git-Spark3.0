@@ -8,4 +8,10 @@ class spark{
     public void payment(){
         System.out.println("X");
     }
+    public void notification(){
+        System.out.println("payment check ? ");
+    }
+    public void notifyCheck(){
+        System.out.println("verifing ");
+    }
 }
